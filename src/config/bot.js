@@ -32,7 +32,7 @@ export const botConfig = {
         // Text users will see (example: "Playing /help | Titan Bot").
         name: "The Main Core Of The Volt SMP",
         // Activity type number (0 = Playing).
-        type: 1, 
+        type: 2, 
       },
     ],
   },
